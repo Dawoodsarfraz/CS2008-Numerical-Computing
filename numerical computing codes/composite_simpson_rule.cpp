@@ -31,7 +31,6 @@
  *
  * Add sample function by replacing one of the f, g, k, l and the assert
  *
- * @author [ggkogkou](https://github.com/ggkogkou)
  *
  */
 
