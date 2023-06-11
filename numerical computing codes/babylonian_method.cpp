@@ -1,13 +1,4 @@
-/**
- * @file
- * @brief [A babylonian method
- * (BM)](https://en.wikipedia.org/wiki/Methods_of_computing_square_roots#Babylonian_method)
- * is an algorithm that computes the square root.
- * @details
- * This algorithm has an application in use case scenario where a user wants
- * find accurate square roots of large numbers
- * @author [Ameya Chawla](https://github.com/ameyachawlaggsipu)
- */
+
 
 #include <cassert>  /// for assert
 #include <cmath>

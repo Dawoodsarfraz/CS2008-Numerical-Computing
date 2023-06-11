@@ -1,18 +1,4 @@
-/**
- * \file
- * \brief Find real extrema of a univariate real function in a given interval
- * using [Brent's method](https://en.wikipedia.org/wiki/Brent%27s_method).
- *
- * Refer the algorithm discoverer's publication
- * [online](https://maths-people.anu.edu.au/~brent/pd/rpb011i.pdf) and also
- * associated book:
- * > R. P. Brent, Algorithms for Minimization without
- * > Derivatives, Prentice-Hall, Englewood Cliffs, New Jersey, 1973
- *
- * \see golden_search_extrema.cpp
- *
- * \author [Krishna Vedala](https://github.com/kvedala)
- */
+
 #define _USE_MATH_DEFINES  ///< required for MS Visual C++
 #include <cassert>
 #include <cmath>

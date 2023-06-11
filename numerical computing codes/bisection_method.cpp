@@ -1,18 +1,4 @@
-/**
- * \file
- * \brief Solve the equation \f$f(x)=0\f$ using [bisection
- * method](https://en.wikipedia.org/wiki/Bisection_method)
- *
- * Given two points \f$a\f$ and \f$b\f$ such that \f$f(a)<0\f$ and
- * \f$f(b)>0\f$, then the \f$(i+1)^\text{th}\f$ approximation is given by: \f[
- * x_{i+1} = \frac{a_i+b_i}{2}
- * \f]
- * For the next iteration, the interval is selected
- * as: \f$[a,x]\f$ if \f$x>0\f$ or \f$[x,b]\f$ if \f$x<0\f$. The Process is
- * continued till a close enough approximation is achieved.
- *
- * \see newton_raphson_method.cpp, false_position.cpp, secant_method.cpp
- */
+
 #include <cmath>
 #include <iostream>
 #include <limits>
