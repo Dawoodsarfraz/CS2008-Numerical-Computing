@@ -5,8 +5,6 @@
  * order](https://en.wikipedia.org/wiki/Runge%E2%80%93Kutta_methods) method
  * implementation
  *
- * \author [Rudra Prasad Das](http://github.com/rudra697)
- *
  * \details
  * It solves the unknown value of y
  * for a given value of x
